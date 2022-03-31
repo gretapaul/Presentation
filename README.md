@@ -1,2 +1,2 @@
 # Presentation
-Short summary of new features in the microarray re-analysis project
+Short summary of the new pipeline in the microarray re-analysis project
