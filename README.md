@@ -1235,6 +1235,8 @@ system("java -version") ## check the java version installed.
 ```
 
 ### MLib Decision trees and Random Forest
+
+```
 coloncancer <- gse[, filter1]
 
 table(coloncancer@phenoData$characteristics_ch1.4)
